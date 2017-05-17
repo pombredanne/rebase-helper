@@ -4,3 +4,5 @@ backports.lzma
 copr
 pyquery
 six
+sphinx_rtd_theme
+m2r
